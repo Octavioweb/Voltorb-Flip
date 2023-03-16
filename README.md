@@ -1,5 +1,5 @@
 # Voltorb-Flip
-Python/Pygame copy of the game of guessing nonograms. Made in 2021 while learning game basics.
+Python copy of the game of guessing nonograms. Made in 2021 while learning game basics.
 
 This game was made reading the book "Making Games with Python and Pygame" by Al Sweigart. 
 

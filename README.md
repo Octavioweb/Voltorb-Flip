@@ -9,4 +9,4 @@ Made entirely with pygame base functions, including topics like randomness, math
 
 ## How to play
 
-The game is played in a NxN board (by default, 5x5), and there board haves number in the bottom part, and the right part. The number represent the number of "mines" in that row or column. One must read this numbers, and conclude if there where are the mines in the board. The final objective is to clear all the mines in the board to win. This somethimes requiere some luck. 
+The game is played in a NxN board (by default, 5x5), and the board has numbers in the bottom and right sides. The number represent the number of "mines" in that row or column. One must read this numbers, and conclude if there are mines in that row or column. The final objective is to clear all the mines in the board to win. This somethimes requiere some luck. 
